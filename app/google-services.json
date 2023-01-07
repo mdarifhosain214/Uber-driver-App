@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "874791529846",
+    "firebase_url": "https://driveruberclone-default-rtdb.firebaseio.com",
+    "project_id": "driveruberclone",
+    "storage_bucket": "driveruberclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874791529846:android:4c7b047445ff0caf2fde57",
+        "android_client_info": {
+          "package_name": "com.example.driver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874791529846-fmekmpbkcas37ihuiirbngq1oe9uti4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3QazgvRYliPvnXm4XSgMUerM3yfjWZPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874791529846-fmekmpbkcas37ihuiirbngq1oe9uti4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
